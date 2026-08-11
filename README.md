@@ -9,22 +9,22 @@ y rendimiento por departamento.
 
 ---
 
-## Hallazgos principales
+## Qué muestra el análisis
 
-- **La soja pasó de cultivo marginal a líder absoluto**: de menos de 1 M tn en
-  los 70 a picos de 60 M tn, aunque el maíz la alcanzó (y por momentos superó)
-  en las últimas campañas — un cambio estructural de la agricultura argentina.
-- **El rinde del maíz casi se triplicó** desde los años 90 (de ~2,5 a ~7 tn/ha),
-  impulsado por genética e intensificación. Soja y trigo mejoraron a un ritmo
-  mucho menor (~3 tn/ha hoy) — el techo biológico y el desplazamiento a
-  ambientes marginales pesan.
-- **La zona núcleo concentra la producción**: Buenos Aires (42 M tn), Córdoba
-  (34,9) y Santa Fe (20,2) explican la mayor parte del volumen de los tres
-  cultivos en 2024/25.
-- **La brecha de rindes en soja es enorme**: departamentos que superan 3,5 tn/ha
-  conviven con otros por debajo de 1,5 — la distribución bimodal sugiere dos
-  agriculturas distintas (núcleo vs. extra-pampeana), con implicancias directas
-  para el potencial de mejora.
+- La soja pasó de cultivo marginal en los 70 (menos de 1 M tn) a picos de
+  60 M tn, aunque en las últimas campañas el maíz la alcanzó y por momentos la
+  superó. Es un cambio estructural del agro argentino que se ve clarísimo en la
+  serie histórica.
+- El rinde del maíz casi se triplicó desde los años 90, de ~2,5 a ~7 tn/ha,
+  empujado por genética e intensificación. Soja y trigo mejoraron a un ritmo
+  mucho menor y hoy rondan las 3 tn/ha.
+- Buenos Aires (42 M tn), Córdoba (34,9) y Santa Fe (20,2) concentran la mayor
+  parte del volumen de los tres cultivos en 2024/25. La zona núcleo sigue
+  mandando.
+- En soja conviven departamentos que superan 3,5 tn/ha con otros por debajo de
+  1,5. Esa brecha marca dos realidades productivas distintas (núcleo vs.
+  extra-pampeana) y da una idea del margen de mejora que existe fuera de la
+  zona núcleo.
 
 ## Visualizaciones
 
