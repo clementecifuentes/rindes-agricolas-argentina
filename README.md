@@ -53,18 +53,18 @@ departamento desde 1969.
 pip install -r requirements.txt
 
 # 1. Descargar los datos (~15 MB)
-python src/descargar_datos.py
+python src/download_data.py
 
 # 2. Generar las figuras
-python src/analisis.py
+python src/analysis.py
 ```
 
 ## Estructura
 
 ```
 ├── src/
-│   ├── descargar_datos.py   # descarga del dataset oficial
-│   └── analisis.py          # series históricas, rankings y brecha de rindes
+│   ├── download_data.py     # descarga del dataset oficial
+│   └── analysis.py          # series históricas, rankings y brecha de rindes
 ├── figures/                 # gráficos generados (PNG)
 ├── data/                    # datos crudos (no versionados)
 └── requirements.txt
