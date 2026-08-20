@@ -9,6 +9,8 @@ Usage:
     python src/analysis.py
 """
 
+from pathlib import Path
+
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -186,6 +188,7 @@ def plot_yield_gap(df: pd.DataFrame, season: str) -> None:
 
 
 def main() -> None:
+    Path("figures").mkdir(exist_ok=True)
     df = load_data()
     season = df["campania"].max()
     print(f"Records (soy/corn/wheat): {len(df):,} | "
